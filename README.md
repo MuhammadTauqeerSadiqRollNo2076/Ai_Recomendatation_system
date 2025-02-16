@@ -1,2 +1,2 @@
 # Ai_Recomendatation_system
-this is my final year project (Islamia Uni Bhawalpur)
+This is my final year project on Ai Based  (Islamia Uni Bhawalpur)
